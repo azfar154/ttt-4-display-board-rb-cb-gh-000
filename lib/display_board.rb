@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 def display_board(display)
-  puts display[0]+"  |  "+display[1]+"   |   "+display[2]
+  puts display[0]+"   |  "+display[1]+"   |   "+display[2]
   puts"-----------"
   puts display[3]+"  |   "+display[4]+"  |   "+display[5]
   puts"-----------"
